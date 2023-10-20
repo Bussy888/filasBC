@@ -1,6 +1,6 @@
 package api.testSuites;
 
-import api.factoryRequest.RequestInfo;
+import api.factoryRequestB.RequestInfo;
 import io.restassured.response.Response;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;

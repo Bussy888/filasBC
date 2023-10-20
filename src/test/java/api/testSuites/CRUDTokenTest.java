@@ -1,7 +1,7 @@
 package api.testSuites;
 
 import api.config.Configuration;
-import api.factoryRequest.FactoryRequest;
+import api.factoryRequestB.FactoryRequest;
 import org.json.JSONObject;
 import org.junit.jupiter.api.Test;
 

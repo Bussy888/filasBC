@@ -1,7 +1,7 @@
 package webUI.testSuite;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
-import webUI.pagesTodoLy.MainPage;
+import webUI.pageTodoLy.MainPage;
 import webUI.session.Session;
 
 public class TestBase {

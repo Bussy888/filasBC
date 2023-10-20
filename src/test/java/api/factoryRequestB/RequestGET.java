@@ -1,4 +1,4 @@
-package api.factoryRequest;
+package api.factoryRequestB;
 import api.config.Configuration;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
