@@ -4,60 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="349fdf9a-0572-4a3f-a77a-2e32e42e9104" name="Changes" comment="Ejercicios de las filas B y C">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/config/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/config/Configuration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/factoryRequestB/FactoryRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/factoryRequestB/FactoryRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/factoryRequestB/IRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/factoryRequestB/IRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/factoryRequestB/RequestDELETE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/factoryRequestB/RequestDELETE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/factoryRequestB/RequestGET.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/factoryRequestB/RequestGET.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/factoryRequestB/RequestInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/factoryRequestB/RequestInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/factoryRequestB/RequestPOST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/factoryRequestB/RequestPOST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/factoryRequestB/RequestPUT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/factoryRequestB/RequestPUT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/factoryRequestC/FactoryRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/factoryRequestC/FactoryRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/factoryRequestC/IRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/factoryRequestC/IRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/factoryRequestC/RequestDELETE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/factoryRequestC/RequestDELETE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/factoryRequestC/RequestGET.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/factoryRequestC/RequestGET.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/factoryRequestC/RequestInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/factoryRequestC/RequestInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/factoryRequestC/RequestPOST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/factoryRequestC/RequestPOST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/factoryRequestC/RequestPUT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/factoryRequestC/RequestPUT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/testSuites/ApiBaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/testSuites/ApiBaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/testSuites/CRUDTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/testSuites/CRUDTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/testSuites/CRUDTokenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/testSuites/CRUDTokenTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/testSuites/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/testSuites/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/testSuites/TestBaseAuthBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/testSuites/TestBaseAuthBasic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/testSuites/TestBaseToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/testSuites/TestBaseToken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ej1B/Ejercicio1B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ej1B/Ejercicio1B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ej1C/Ejercicio1C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ej1C/Ejercicio1C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ej2B/Ejercicio2B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ej2B/Ejercicio2B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ej2C/Ejercicio2C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ej2C/Ejercicio2C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ej3B/Ejercicio3B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ej3B/Ejercicio3B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ej3C/Ejercicio3C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ej3C/Ejercicio3C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ej4B/ConfigurationTOKEN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ej4B/ConfigurationTOKEN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ej4B/Ejercici4B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ej4B/Ejercici4B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ej4C/Ejercicio4C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ej4C/Ejercicio4C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/webUI/controls/Option.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/webUI/controls/Option.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/webUI/pageTodoLy/CentralSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/webUI/pageTodoLy/CentralSection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/webUI/pageTodoLy/LoginSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/webUI/pageTodoLy/LoginSection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/webUI/pageTodoLy/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/webUI/pageTodoLy/MainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/webUI/pageTodoLy/MenuSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/webUI/pageTodoLy/MenuSection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/webUI/pageTodoLy/SettingsPopUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/webUI/pageTodoLy/SettingsPopUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/webUI/pageTodoLy/SettingsSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/webUI/pageTodoLy/SettingsSection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/webUI/pageTodoLy/SignUpSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/webUI/pageTodoLy/SignUpSection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/webUI/pageTodoist/AddProjectPopUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/webUI/pageTodoist/AddProjectPopUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/webUI/pageTodoist/ConfigurationSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/webUI/pageTodoist/ConfigurationSection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/webUI/pageTodoist/CreateProfileSection1Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/webUI/pageTodoist/CreateProfileSection1Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/webUI/pageTodoist/CreateProfileSection2Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/webUI/pageTodoist/CreateProfileSection2Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/webUI/pageTodoist/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/webUI/pageTodoist/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/webUI/pageTodoist/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/webUI/pageTodoist/MainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/webUI/pageTodoist/NavBarSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/webUI/pageTodoist/NavBarSection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/webUI/pageTodoist/ProjectWorkspaceSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/webUI/pageTodoist/ProjectWorkspaceSection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/webUI/pageTodoist/SignUpPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/webUI/pageTodoist/SignUpPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/webUI/pageTodoist/WorkspacePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/webUI/pageTodoist/WorkspacePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/webUI/testSuite/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/webUI/testSuite/TestBase.java" afterDir="false" />
-    </list>
+    <list default="true" id="349fdf9a-0572-4a3f-a77a-2e32e42e9104" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,12 +45,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/enchu/OneDrive/Escritorio/Programacion/QA/filasBC/src/test/java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/enchu/OneDrive/Escritorio/Programacion/QA/filasBC/src/test/java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="api.factoryRequestC" />
@@ -251,6 +198,14 @@
       <option name="presentableId" value="Default" />
       <updated>1697751563678</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ejercicios de las filas B y C">
+      <created>1697767673543</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697767673543</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
